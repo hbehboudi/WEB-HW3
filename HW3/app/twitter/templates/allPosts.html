@@ -7,8 +7,8 @@
 
     <h4>{% trans 'All Post:' %}</h4>
     {% for post in posts %}
-        <p style="border: solid 2px black; margin: 5px; padding: 5px; border-radius: 5px">
-            {{ post.owner.username }} : {{ post.content }}
+        <p style="border: solid 2px black; margin: 5px; padding: 5px; border-radius: 5px; background-color: #cccccc">
+            {{ post.owner.first_name }} {{ post.owner.last_name }} : {{ post.content }}
         </p>
     {% endfor %}
 

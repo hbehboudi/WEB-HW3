@@ -10,3 +10,4 @@ class all_posts(generic.ListView):
     def get_queryset(self):
         """Return the last five published questions."""
         return Post.objects.filter(deleted=False)
+
