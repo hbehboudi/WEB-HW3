@@ -11,4 +11,4 @@ class Tweet(models.Model):
     deleted = models.BooleanField(default=False)
 
     class Meta:
-        ordering = ['created_date_time', "title"]
+        ordering = ['-created_date_time', "title"]
