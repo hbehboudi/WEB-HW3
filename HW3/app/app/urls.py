@@ -1,3 +1,4 @@
+from django.conf.urls import url
 from django.contrib import admin
 from django.conf import settings
 from django.urls import path, include
@@ -12,6 +13,7 @@ urlpatterns = [
     path('language/', ChangeLanguageView.as_view(), name='change_language'),
     path('accounts/', include('accounts.urls')),
     path('twitter/', include('twitter.urls')),
+    url(r'^auth/', include('social_django.urls', namespace='social')),  # <- Here
 ]
 
 if settings.DEBUG:
