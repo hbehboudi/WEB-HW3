@@ -21,14 +21,16 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'twitter',
 
     # Vendor apps
     'bootstrap4',
+    'social_django',
 
     # Application apps
     'main',
     'accounts',
+    'twitter',
+
 ]
 
 MIDDLEWARE = [

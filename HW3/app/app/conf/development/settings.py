@@ -15,6 +15,7 @@ ALLOWED_HOSTS = []
 
 SITE_ID = 1
 
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -23,16 +24,16 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
-    'twitter',
 
     # Vendor apps
     'bootstrap4',
+    'social_django',
 
     # Application apps
     'main',
     'accounts',
+    'twitter',
 ]
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
