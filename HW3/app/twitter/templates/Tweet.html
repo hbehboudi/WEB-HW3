@@ -1,0 +1,17 @@
+{% extends 'layouts/default/page.html' %}
+
+{% load bootstrap4 %}
+{% load i18n %}
+
+{% block content %}
+
+    <h2>{% trans 'Tweets:' %}</h2>
+    <h4><a href={% url 'tweet_create' %}> New Tweet</a></h4>
+    {% for post in posts %}
+        <p style="border: solid 2px black; margin: 5px; padding: 5px; border-radius: 5px; background-color: #cccccc">
+            {{ post.owner.first_name }} {{ post.owner.last_name }} : {{ post.content }}
+        </p>
+    {% endfor %}
+
+
+{% endblock %}
