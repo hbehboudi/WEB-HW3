@@ -3,7 +3,7 @@ from django.contrib.auth.models import User
 from django.utils import timezone
 
 
-class Post(models.Model):
+class Tweet(models.Model):
     title = models.CharField(max_length=50)
     content = models.CharField(max_length=240)
     owner = models.ForeignKey(User, on_delete=models.CASCADE)

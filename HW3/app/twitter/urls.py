@@ -1,7 +1,8 @@
 from django.urls import path
 
-from twitter.views import all_posts
+from twitter.views import Tweets, TweetCreate
 
 urlpatterns = [
-    path('', all_posts.as_view(), name='get_all_posts'),
+    path('', Tweets.as_view(), name='tweets'),
+    path('new/', TweetCreate.as_view(), name='tweet_create'),
 ]
