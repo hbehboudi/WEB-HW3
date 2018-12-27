@@ -100,10 +100,10 @@ ENABLE_USER_ACTIVATION = True
 DISABLE_USERNAME = False
 LOGIN_VIA_EMAIL = True
 LOGIN_VIA_EMAIL_OR_USERNAME = False
-# LOGIN_REDIRECT_URL = 'index'
-# LOGIN_URL = 'accounts:log_in'
-LOGIN_URL = 'login'
-LOGIN_REDIRECT_URL = 'home'
+LOGIN_REDIRECT_URL = 'index'
+LOGIN_URL = 'accounts:log_in'
+# LOGIN_URL = 'login'
+# LOGIN_REDIRECT_URL = 'home'
 USE_REMEMBER_ME = True
 
 RESTORE_PASSWORD_VIA_EMAIL_OR_USERNAME = False
@@ -148,8 +148,8 @@ AUTHENTICATION_BACKENDS = (
     # 'social_core.backends.github.GithubOAuth2',  # for Github authentication
     # 'social_core.backends.facebook.FacebookOAuth2',  # for Facebook authentication
     #
-    'django.contrib.auth.backends.ModelBackend',
+    # 'django.contrib.auth.backends.ModelBackend',
 )
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '692748573664-f1c7cbc09d1ak06l5gvpk75242eue7cp.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'uD_Q8LHzq0hZeVSPa0VI2uP5'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '692748573664-jbmus66mbr0vltqlcvc7p83djf9orsva.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'DpalUkbDmRDzZlHgqEXbHvtO'
