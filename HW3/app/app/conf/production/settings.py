@@ -25,6 +25,7 @@ INSTALLED_APPS = [
     # Vendor apps
     'bootstrap4',
     'social_django',
+    'avatar',
 
     # Application apps
     'main',
@@ -149,5 +150,5 @@ AUTHENTICATION_BACKENDS = (
     # 'django.contrib.auth.backends.ModelBackend',
 )
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '692748573664-jbmus66mbr0vltqlcvc7p83djf9orsva.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'DpalUkbDmRDzZlHgqEXbHvtO'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '692748573664-t8qt6ckmv55j30dd4niqogjmav8fj855.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'hDs4RhsGUsm-VxrD3u1aJskm'

@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     # Vendor apps
     'bootstrap4',
     'social_django',
+    'avatar',
 
     # Application apps
     'main',
@@ -102,8 +103,6 @@ LOGIN_VIA_EMAIL = True
 LOGIN_VIA_EMAIL_OR_USERNAME = False
 LOGIN_REDIRECT_URL = 'index'
 LOGIN_URL = 'accounts:log_in'
-# LOGIN_URL = 'login'
-# LOGIN_REDIRECT_URL = 'home'
 USE_REMEMBER_ME = True
 
 RESTORE_PASSWORD_VIA_EMAIL_OR_USERNAME = False
@@ -120,8 +119,7 @@ USE_L10N = True
 LANGUAGE_CODE = 'en'
 LANGUAGES = [
     ('en', _('English')),
-    ('ru', _('Russian')),
-    ('zh-Hans', _('Simplified Chinese')),
+    ('fa', _('Iranian')),
 ]
 
 TIME_ZONE = 'UTC'
@@ -151,5 +149,5 @@ AUTHENTICATION_BACKENDS = (
     # 'django.contrib.auth.backends.ModelBackend',
 )
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '692748573664-jbmus66mbr0vltqlcvc7p83djf9orsva.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'DpalUkbDmRDzZlHgqEXbHvtO'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '692748573664-t8qt6ckmv55j30dd4niqogjmav8fj855.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'hDs4RhsGUsm-VxrD3u1aJskm'

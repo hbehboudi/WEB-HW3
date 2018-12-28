@@ -14,7 +14,8 @@ urlpatterns = [
     path('accounts/', include('accounts.urls')),
     path('twitter/', include('twitter.urls')),
     url(r'^auth/', include('social_django.urls', namespace='social')),  # <- Here
-]
+    url('avatar/', include('avatar.urls')),
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
