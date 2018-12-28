@@ -40,7 +40,13 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{% url 'tweets' %}">{% trans 'Tweets' %}</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'change_language' %}">{% trans 'Change language' %}</a>
+                </li>
             {% else %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'change_language' %}">{% trans 'Change language' %}</a>
+                </li>
             {% endif %}
         </ul>
 
@@ -61,13 +67,9 @@
                     <a class="dropdown-item" href="{% url 'accounts:change_profile' %}">{% trans 'Change profile' %}</a>
                     <a class="dropdown-item" href="{% url 'accounts:change_email' %}">{% trans 'Change email' %}</a>
                     <a class="dropdown-item" href="{% url 'change_language' %}">{% trans 'Change language' %}</a>
-
                 </div>
             </li>
             {% else %}
-            <li class="nav-item">
-                <a class="nav-link" href="{% url 'change_language' %}">{% trans 'Change language' %}</a>
-            </li>
             <li class="nav-item">
                 <a class="nav-link" href="{% url 'accounts:log_in' %}">{% trans 'Log in' %}</a>
             </li>

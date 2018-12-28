@@ -12,10 +12,17 @@
         {% csrf_token %}
         {% bootstrap_form form %}
 
+        <a href="{% url 'social:begin' 'google-oauth2' %}">
+            <img width="60px" height="60px" src="https://image.flaticon.com/teams/slug/google.jpg">
+        </a>
+
+        <br>
+
         <button class="btn btn-primary">{% trans 'Log in' %}</button>
 
     </form>
-<a href="{% url 'social:begin' 'google-oauth2' %}">Login with Google</a><br>
+
+    <br>
 
     <hr>
 

@@ -107,6 +107,8 @@ LOGIN_VIA_EMAIL = False
 LOGIN_VIA_EMAIL_OR_USERNAME = True
 LOGIN_REDIRECT_URL = 'index'
 LOGIN_URL = 'accounts:log_in'
+# LOGIN_URL = 'login'
+# LOGIN_REDIRECT_URL = 'home'
 USE_REMEMBER_ME = False
 
 RESTORE_PASSWORD_VIA_EMAIL_OR_USERNAME = True
@@ -150,5 +152,5 @@ AUTHENTICATION_BACKENDS = (
     # 'django.contrib.auth.backends.ModelBackend',
 )
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '692748573664-t8qt6ckmv55j30dd4niqogjmav8fj855.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'hDs4RhsGUsm-VxrD3u1aJskm'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '121479809517-26qmcmmsru80prehvg1hp9jd1ru6jni2.apps.googleusercontent.com'  #Paste CLient Key
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'hTntaQ4hJSUkK1r4pEV9X5DV' #Paste Secret Key
