@@ -5,8 +5,9 @@
 
 {% block content %}
 
+    <button><a class="nav-link" href="{% url 'token_obtain_pair' %}">Get Token</a></button>
     <h2>{% trans 'Tweets:' %}</h2>
-    <h4><a href={% url 'tweet_create' %}> New Tweet</a></h4>
+    <h4><a href={% url 'tweets' %}> New Tweet</a></h4>
     {% for post in posts %}
         <p style="border: solid 2px black; margin: 5px; padding: 5px; border-radius: 5px; background-color: #cccccc">
             {{ post.owner.first_name }} {{ post.owner.last_name }} : {{ post.content }}

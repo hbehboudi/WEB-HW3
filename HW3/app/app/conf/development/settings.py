@@ -15,7 +15,6 @@ ALLOWED_HOSTS = []
 
 SITE_ID = 1
 
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -24,6 +23,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
+    'rest_framework',
+    'rest_framework.authtoken',
 
     # Vendor apps
     'bootstrap4',
@@ -34,6 +35,7 @@ INSTALLED_APPS = [
     'main',
     'accounts',
     'twitter',
+    'api',
 ]
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -151,5 +153,12 @@ AUTHENTICATION_BACKENDS = (
     # 'django.contrib.auth.backends.ModelBackend',
 )
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '121479809517-26qmcmmsru80prehvg1hp9jd1ru6jni2.apps.googleusercontent.com'  #Paste CLient Key
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'hTntaQ4hJSUkK1r4pEV9X5DV' #Paste Secret Key
+REST_FRAMEWORK = {
+
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    ],
+}
+
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '121479809517-26qmcmmsru80prehvg1hp9jd1ru6jni2.apps.googleusercontent.com'  # Paste CLient Key
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'hTntaQ4hJSUkK1r4pEV9X5DV'  # Paste Secret Key
