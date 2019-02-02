@@ -2,17 +2,796 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="009ea35a-7f9c-4d38-8ce0-5dc500914fdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/tmp/emails/20190202-071850-140056402181984.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/.libs_cffi_backend/libffi-d78936b1.so.6.0.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.5.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.5.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.5.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libfreetype-3e240bcb.so.6.16.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libpng16-9e58a7b0.so.16.36.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libtiff-8267adfe.so.5.4.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libwebp-db943ca4.so.7.0.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libwebpdemux-cc0d17dd.so.2.0.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libwebpmux-062931a1.so.3.0.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.4.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.4.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/_cffi_backend.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto-0.24.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto-0.24.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto-0.24.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto-0.24.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto-0.24.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto-0.24.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_elliptic_curve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_ffi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_inet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_iri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_ordereddict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_perf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_perf/_big_num_ctypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_teletex_codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/algos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/cms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/crl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/csr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/ocsp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/pem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/pkcs12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/tsp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto/x509.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi-1.11.5.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi-1.11.5.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi-1.11.5.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi-1.11.5.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi-1.11.5.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi-1.11.5.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi-1.11.5.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/_cffi_errors.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/_cffi_include.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/_embedding.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/backend_ctypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/cffi_opcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/commontypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/cparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/ffiplatform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/parse_c_type.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/recompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/setuptools_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/vengine_cpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/vengine_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi/verifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/AUTHORS.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/LICENSE.APACHE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/LICENSE.BSD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/fernet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/_oid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/interfaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/aead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/ciphers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/cmac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/decode_asn1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/dh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/dsa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/ec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/encode_asn1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/hmac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/ocsp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/rsa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/x25519.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/backends/openssl/x509.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/bindings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/bindings/_constant_time.abi3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/bindings/_openssl.abi3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/bindings/_padding.abi3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/bindings/openssl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/bindings/openssl/_conditional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/bindings/openssl/binding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/asymmetric/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/asymmetric/dh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/asymmetric/dsa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/asymmetric/ec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/asymmetric/padding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/asymmetric/rsa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/asymmetric/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/asymmetric/x25519.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/ciphers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/ciphers/aead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/ciphers/algorithms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/ciphers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/ciphers/modes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/cmac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/constant_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/hmac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/concatkdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/hkdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/kbkdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/scrypt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/x963kdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/keywrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/mac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/padding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/serialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/twofactor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/twofactor/hotp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/twofactor/totp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/twofactor/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/x509/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/x509/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/x509/certificate_transparency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/x509/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/x509/general_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/x509/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/x509/ocsp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography/x509/oid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/migrations/0002_auto_20151227_1428.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/tests/test_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt/tests/test_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_auth-0.0.2.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_auth-0.0.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_auth-0.0.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_auth-0.0.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_auth-0.0.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_auth-0.0.2.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_auth-0.0.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_expiringlinks-0.1.0-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_expiringlinks-0.1.0-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_expiringlinks-0.1.0-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_expiringlinks-0.1.0-py3.6.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_expiringlinks-0.1.0-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_auth-0.9.3-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_auth-0.9.3-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_auth-0.9.3-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_auth-0.9.3-py3.6.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_auth-0.9.3-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_framework-0.1.0-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_framework-0.1.0-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_framework-0.1.0-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_framework-0.1.0-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_framework-0.1.0-py3.6.egg-info/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_framework-0.1.0-py3.6.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_framework-0.1.0-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework-3.9.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework-3.9.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework-3.9.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework-3.9.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework-3.9.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework-3.9.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework-3.9.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework_simplejwt-3.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework_simplejwt-3.3.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework_simplejwt-3.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework_simplejwt-3.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework_simplejwt-3.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/empty/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/jwt_auth/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-3.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-3.0.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-3.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-3.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-3.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/introspect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/endpoints/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/endpoints/pre_configured.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/grant_types/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/grant_types/authorization_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/grant_types/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/grant_types/dispatchers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/grant_types/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/grant_types/hybrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/grant_types/implicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/request_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/openid/connect/core/tokens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/_ast_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/_build_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/_c_ast.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/ast_transforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/c_ast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/c_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/c_lexer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/c_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/lextab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/ply/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/ply/cpp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/ply/ctokens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/ply/lex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/ply/yacc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/ply/ygen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/plyparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pycparser/yacctab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Qostanay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.2.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.2.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.2.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.2.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/app_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/locale/de/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/locale/de/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/locale/es/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/locale/es/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/registration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/registration/app_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/registration/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/registration/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/registration/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/social_serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/tests/django_urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/tests/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/tests/requirements.pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/tests/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/tests/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/tests/test_social.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/tests/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_auth/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/management/commands/drf_create_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/migrations/0002_auto_20160226_1747.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/authtoken/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/checks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/documentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/generics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/ach/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/ar/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/be/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/ca/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/ca_ES/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/cs/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/da/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/de/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/el/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/el_GR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/en/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/en_AU/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/en_CA/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/en_US/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/es/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/et/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/fa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/fa_IR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/fi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/fr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/fr_CA/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/gl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/gl_ES/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/he_IL/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/hu/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/id/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/it/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/ja/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/ko_KR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/lv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/mk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/nb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/nl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/nn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/no/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/pt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/pt_BR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/pt_PT/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/ro/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/sk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/sl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/sv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/tr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/tr_TR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/uk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/vi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/zh_CN/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/zh_Hans/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/zh_Hant/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/locale/zh_TW/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/management/commands/generateschema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/negotiation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/pagination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/parsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/relations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/renderers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/routers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/schemas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/schemas/generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/schemas/inspectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/schemas/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/schemas/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/css/bootstrap-tweaks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/css/font-awesome-4.0.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/css/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/docs/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/docs/css/highlight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/docs/css/jquery.json-view.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/docs/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/docs/img/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/docs/js/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/docs/js/highlight.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/docs/js/jquery.json-view.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/img/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/img/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/img/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/js/ajax-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/js/coreapi-0.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/js/csrf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/js/default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/static/rest_framework/js/prettify-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/admin/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/admin/dict_value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/admin/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/admin/list_value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/admin/simple_list_value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/api.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/auth/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/auth/session.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/auth/token.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/document.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/interact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/langs/javascript-intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/langs/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/langs/python-intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/langs/python.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/langs/shell-intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/langs/shell.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/docs/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/filters/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/filters/ordering.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/filters/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/checkbox_multiple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/dict_field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/fieldset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/list_field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/list_fieldset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/radio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/select_multiple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/horizontal/textarea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/checkbox_multiple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/dict_field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/fieldset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/list_field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/list_fieldset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/radio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/select_multiple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/inline/textarea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/login_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/pagination/numbers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/pagination/previous_and_next.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/raw_data_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/schema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/checkbox_multiple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/dict_field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/fieldset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/list_field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/list_fieldset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/radio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/select_multiple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templates/rest_framework/vertical/textarea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/templatetags/rest_framework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/throttling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/urlpatterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/breadcrumbs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/encoders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/field_mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/humanize_datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/mediatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/model_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/representation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/serializer_helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/utils/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/versioning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework/viewsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/backends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/management/commands/flushexpiredtokens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/migrations/0002_outstandingtoken_jti_hex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/migrations/0003_auto_20171017_2007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/migrations/0004_auto_20171017_2013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/migrations/0005_remove_outstandingtoken_jti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/migrations/0006_auto_20171017_2113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/migrations/0007_auto_20171017_2214.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/token_blacklist/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/tokens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/rest_framework_simplejwt/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi/django_jwt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi/django_jwt/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi/django_jwt/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi/django_jwt/verify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi_django_jwt-0.1.2-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi_django_jwt-0.1.2-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi_django_jwt-0.1.2-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi_django_jwt-0.1.2-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi_django_jwt-0.1.2-py3.6.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/ridi_django_jwt-0.1.2-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-3.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-3.0.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-3.0.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/webstack_django_jwt_auth-1.1.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/webstack_django_jwt_auth-1.1.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/webstack_django_jwt_auth-1.1.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/webstack_django_jwt_auth-1.1.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/webstack_django_jwt_auth-1.1.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/webstack_django_jwt_auth-1.1.0.dist-info/top_level.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/log_in.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/log_in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/conf/development/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/conf/development/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/conf/production/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/conf/production/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/templates/layouts/default/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/templates/layouts/default/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/chardetect" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/chardetect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/django-admin" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/django-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/django-admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/easy_install-3.6" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/easy_install-3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/pip3.6" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/pip3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/pyjwt" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/pyjwt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.5.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.5.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/entry_points.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.5.dist-info/entry_points.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.4.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Django-2.1.5.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libfreetype-7ce95de6.so.6.16.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libpng16-898afbbd.so.16.35.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libtiff-8a6d997d.so.5.3.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libwebp-8ccd29fd.so.7.0.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libwebpdemux-eba3dc32.so.2.0.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/.libs/libwebpmux-1c63fe99.so.3.0.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/BmpImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/DcxImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/DcxImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/DdsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/DdsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/EpsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/FliImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/FliImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/FtexImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/FtexImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/GdImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/GdImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/GifImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/GifImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/IcnsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/IcnsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/Image.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/Image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageChops.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageChops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageCms.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageCms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageColor.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageColor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageDraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageFilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageFilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageFont.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageFont.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageGrab.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageGrab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageOps.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageOps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageQt.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageQt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageShow.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageShow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageTk.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/ImageTk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/Jpeg2KImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/Jpeg2KImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/JpegImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/JpegImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/JpegPresets.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/JpegPresets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/MicImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/MicImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/MpoImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/MpoImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PalmImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PalmImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PcfFontFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PcfFontFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PdfParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PdfParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PngImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PsdImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PyAccess.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/PyAccess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/SpiderImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/SpiderImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/TarIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/TarIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/TiffImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/TiffTags.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/TiffTags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/WebPImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/WebPImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_imaging.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_imaging.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_imagingft.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_imagingft.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_imagingtk.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_imagingtk.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_webp.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/_webp.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/features.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PIL/features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.3.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.4.1.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.3.0.dist-info/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.4.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.3.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.3.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.3.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.4.1.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.3.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.4.1.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.3.0.dist-info/zip-safe" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/Pillow-5.4.1.dist-info/zip-safe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PyJWT-1.7.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/PyJWT-1.7.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/contrib/admin/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/contrib/admin/options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/core/servers/basehttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/core/servers/basehttp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/backends/mysql/operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/backends/mysql/operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/backends/oracle/operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/backends/oracle/operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/backends/sqlite3/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/backends/sqlite3/schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/views/defaults.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django/views/defaults.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0-py3.6.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0-py3.6.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0-py3.6.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_jwt_expiringlinks-0.1.0-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0-py3.6.egg-info/installed-files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0-py3.6.egg-info/not-zip-safe" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_auth-0.9.3-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0-py3.6.egg-info/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0-py3.6.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-2.1.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/asn1crypto-0.24.0.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-2.1.0.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-2.1.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-2.1.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-2.1.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework_simplejwt-3.3.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-2.1.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib-3.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/endpoints/access_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/endpoints/access_token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/endpoints/request_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/endpoints/request_token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/parameters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/request_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/request_validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/signature.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/signature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth1/rfc5849/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/backend_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/backend_application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/mobile_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/mobile_application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/service_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/service_application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/web_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/clients/web_application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/resource.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/resource.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/revocation.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/endpoints/revocation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/authorization_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/authorization_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/client_credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/client_credentials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/implicit.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/implicit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/openid_connect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/refresh_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/refresh_token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/parameters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/request_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/request_validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/tokens.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/oauth2/rfc6749/tokens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/oauthlib/signals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cffi-1.11.5.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/djangorestframework-3.9.1.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.9.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz-2018.7.dist-info/zip-safe" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_rest_auth-0.9.3-py3.6.egg-info/not-zip-safe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Africa/Casablanca" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Africa/Casablanca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Africa/El_Aaiun" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Africa/El_Aaiun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Africa/Sao_Tome" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Africa/Sao_Tome" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/America/Metlakatla" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/America/Metlakatla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Hong_Kong" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Hong_Kong" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Qyzylorda" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Qyzylorda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Tehran" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Tehran" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Hongkong" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Hongkong" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Iran" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Iran" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Kwajalein" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Kwajalein" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Chuuk" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Chuuk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Guam" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Guam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Kosrae" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Kosrae" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Kwajalein" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Kwajalein" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Majuro" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Majuro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Nauru" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Nauru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Palau" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Palau" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Pohnpei" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Pohnpei" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Ponape" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Ponape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Saipan" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Saipan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Truk" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Truk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Yap" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Yap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/leapseconds" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/leapseconds" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/tzdata.zi" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/tzdata.zi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/zone.tab" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/zone.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/zone1970.tab" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/pytz/zoneinfo/zone1970.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.0.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/cryptography-2.4.2.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.0.0.dist-info/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.2.0.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.0.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.0.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.0.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.0.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib-1.2.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib/oauth1_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib/oauth1_session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib/oauth2_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_oauthlib/oauth2_session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-2.0.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/django_avatar-4.1.0.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-2.0.0.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-3.0.0.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-2.0.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-2.0.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-2.0.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-3.0.0.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-2.0.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_auth_core-3.0.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/azuread_b2c.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/azuread_b2c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/azuread_tenant.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/azuread_tenant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/google.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/google.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/line.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/mediawiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/mediawiki.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/yandex.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/backends/yandex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/pipeline/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/pipeline/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/tests/backends/test_google.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/tests/backends/test_google.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/tests/backends/test_yandex.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/social_core/tests/backends/test_yandex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/env/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/templates/Tweet.html" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/templates/Tweet.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/django_twitter$manage.coverage" NAME="manage Coverage Results" MODIFIED="1549090707604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -36,8 +815,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="252">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="18" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -46,75 +825,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/log_in.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twitter/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="29" column="62" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="62" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/templates/main/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/templates/layouts/default/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="58" lean-forward="true" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
-              <folding>
-                <element signature="n#style#0;n#li#4;n#ul#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/conf/production/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="156" selection-start-line="156" selection-end-line="156" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/conf/development/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="151" column="1" lean-forward="true" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
+            <state relative-caret-position="-900">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,8 +851,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="108">
+              <caret line="6" column="58" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="58" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -135,8 +863,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter/templates/Tweet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-end-line="17" />
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/tmp/emails/20181228-075936-140041774109416.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="382">
+              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/models.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/tmp/emails/20190202-071850-140056402181984.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="954">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -177,7 +940,6 @@
         <option value="$PROJECT_DIR$/twitter/templates/addPost.html" />
         <option value="$PROJECT_DIR$/twitter/urls.py" />
         <option value="$PROJECT_DIR$/twitter/templates/createTweet.html" />
-        <option value="$PROJECT_DIR$/twitter/templates/Tweet.html" />
         <option value="$PROJECT_DIR$/twitter/views.py" />
         <option value="$PROJECT_DIR$/twitter/models.py" />
         <option value="$PROJECT_DIR$/../django-twitter/app/urls.py" />
@@ -195,9 +957,10 @@
         <option value="$PROJECT_DIR$/app/urls.py" />
         <option value="$PROJECT_DIR$/content/templates/main/index.html" />
         <option value="$PROJECT_DIR$/app/conf/production/settings.py" />
-        <option value="$PROJECT_DIR$/app/conf/development/settings.py" />
         <option value="$PROJECT_DIR$/accounts/templates/accounts/log_in.html" />
         <option value="$PROJECT_DIR$/content/templates/layouts/default/page.html" />
+        <option value="$PROJECT_DIR$/app/conf/development/settings.py" />
+        <option value="$PROJECT_DIR$/twitter/templates/Tweet.html" />
       </list>
     </option>
   </component>
@@ -223,20 +986,25 @@
             <path>
               <item name="django-twitter" type="b2602c69:ProjectViewProjectNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="django-twitter" type="b2602c69:ProjectViewProjectNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="django-twitter" type="b2602c69:ProjectViewProjectNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="emails" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-twitter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="twitter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,7 +1015,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../b/Google-OAuth-Demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -273,7 +1041,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="Python.DjangoServer" factoryName="Django server">
       <module name="app" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,6 +1088,11 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -316,7 +1111,16 @@
       <workItem from="1545941241479" duration="237000" />
       <workItem from="1545941505351" duration="260000" />
       <workItem from="1545941768514" duration="7034000" />
-      <workItem from="1545974121042" duration="24615000" />
+      <workItem from="1545974121042" duration="24956000" />
+      <workItem from="1546011665860" duration="714000" />
+      <workItem from="1546018615779" duration="578000" />
+      <workItem from="1546027221518" duration="32000" />
+      <workItem from="1546062303548" duration="116000" />
+      <workItem from="1546068614504" duration="12000" />
+      <workItem from="1546286554435" duration="1401000" />
+      <workItem from="1546291380503" duration="604000" />
+      <workItem from="1546846436901" duration="16000" />
+      <workItem from="1549090391754" duration="2316000" />
     </task>
     <task id="LOCAL-00001" summary="Project updated.">
       <created>1545898410433</created>
@@ -367,11 +1171,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546001257792</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated.">
+      <created>1546004808670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546004808670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56656000" />
+    <option name="totallyTimeSpent" value="62786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,12 +1197,13 @@
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31590182" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17982924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32721382" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839914" weight="0.32721382" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -399,8 +1211,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32937366" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3261339" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5032017" side_tool="true" weight="0.3261339" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4967983" visible="true" weight="0.3261339" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -469,65 +1281,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/tmp/emails/20181225-204357-139821877511280.log" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/views/generic/base.py" />
-    <entry file="file://$PROJECT_DIR$/main/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/lib/python3.6/site-packages/django/views/generic/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/sign_up.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/lib/python3.6/site-packages/django/db/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter/forms.py" />
-    <entry file="file://$PROJECT_DIR$/env/lib/python3.6/site-packages/django/contrib/messages/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/twitter/templates/createTweet.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -542,28 +1295,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.6/importlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/home.html" />
-    <entry file="file://$PROJECT_DIR$/content/tmp/emails/20181227-201800-140634812471616.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/tmp/emails/20181227-211646-140408521018560.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tmp/emails/20181227-201800-140634812471616.log" />
+    <entry file="file://$PROJECT_DIR$/content/tmp/emails/20181227-211646-140408521018560.log" />
     <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/log_out.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -600,9 +1334,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/media/avatars/hbehboudi/p19054.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/media/avatars/hbehboudi/p19054.png" />
     <entry file="file://$PROJECT_DIR$/accounts/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -612,13 +1344,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/tmp/emails/20181228-075936-140041774109416.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="202">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/accounts/models.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -688,112 +1413,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter/templates/Tweet.html">
+    <entry file="file://$PROJECT_DIR$/app/views.py" />
+    <entry file="file://$PROJECT_DIR$/app/templates/avatar.html" />
+    <entry file="file://$PROJECT_DIR$/avatars/views.py" />
+    <entry file="file://$PROJECT_DIR$/avatars/templates/avatar.html" />
+    <entry file="file://$PROJECT_DIR$/avatars/urls.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/log_in.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/avatar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/avatars/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/avatars/templates/avatar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/avatars/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
+        <state relative-caret-position="408">
           <caret line="29" column="62" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="62" />
           <folding>
             <element signature="e#0#57#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/conf/development/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="151" column="1" lean-forward="true" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/conf/production/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="156" selection-start-line="156" selection-end-line="156" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/log_in.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -806,11 +1444,152 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/templates/layouts/default/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="58" lean-forward="true" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
+        <state relative-caret-position="833">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/conf/production/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
           <folding>
-            <element signature="n#style#0;n#li#4;n#ul#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/imp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport/report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/permissions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/python3.6/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/virtualenvs/HW3-i12Ky8S8/lib/python3.6/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="142" column="30" selection-start-line="142" selection-start-column="30" selection-end-line="142" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/conf/development/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tmp/emails/20190202-071850-140056402181984.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="954">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/templates/Tweet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tmp/emails/20181228-075936-140041774109416.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="382">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
         </state>
       </provider>
     </entry>

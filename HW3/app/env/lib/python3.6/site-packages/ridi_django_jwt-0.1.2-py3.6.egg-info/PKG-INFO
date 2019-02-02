@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: ridi-django-jwt
+Version: 0.1.2
+Summary: JSON Web Token based authentication for RIDI's django services
+Home-page: https://github.com/ridi/django-jwt
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Keywords: jwt,django,ridi,ridibooks
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Internet :: WWW/HTTP

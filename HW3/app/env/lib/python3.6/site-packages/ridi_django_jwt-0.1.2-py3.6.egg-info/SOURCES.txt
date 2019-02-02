@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+requirements/base.txt
+requirements/development.txt
+requirements/test.txt
+ridi/django_jwt/__init__.py
+ridi/django_jwt/config.py
+ridi/django_jwt/decorators.py
+ridi/django_jwt/verify.py
+ridi_django_jwt.egg-info/PKG-INFO
+ridi_django_jwt.egg-info/SOURCES.txt
+ridi_django_jwt.egg-info/dependency_links.txt
+ridi_django_jwt.egg-info/requires.txt
+ridi_django_jwt.egg-info/top_level.txt
